@@ -28,7 +28,7 @@ To eradicate these , farmers are spending a huge amount of capital in purchasing
 - Decreases the capital investment for the farmers as they no need buy the pesticides for entire crop.
 
 
-## 4. Scalability and Business uss case
+## 4. Business use case
 
 - We have chosen this problem because it is affecting our country’s major sector (Agriculture)  that too on a major scale.
 - We believe this not only acts as a successful business idea but also a great contribution for revolutionary technology in the Agricultural sector.
